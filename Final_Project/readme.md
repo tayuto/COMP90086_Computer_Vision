@@ -8,4 +8,4 @@ Furthermore, corner cases, especially when the SIFT points can not be found, wer
 
 # Result
 In Kaggle, our predictions ranked top 30% among 200+ participants and got full mark on coding.
-[Kaggle Result](./LeaderBoard_Result_60in215.png)
+![Kaggle Result](LeaderBoard_Result_60in215.png)
